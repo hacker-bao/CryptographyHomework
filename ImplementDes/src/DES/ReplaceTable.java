@@ -1,4 +1,4 @@
-package des;
+package DES;
 
 public class ReplaceTable {
     //初始置换IP(Initial Permutation)

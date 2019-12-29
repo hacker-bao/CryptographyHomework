@@ -1,4 +1,4 @@
-package des;
+package DES;
 
 public class DES {
     private ReplaceTable replaceTable = new ReplaceTable();
